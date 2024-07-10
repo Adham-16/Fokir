@@ -323,7 +323,7 @@ h2.head::before {
   display: inline-block;
 }
 .counter .item:hover {
-  background-color: #111;
+  background-color: #fff;
 }
 .counter .item i {
   color: #ff305b;
