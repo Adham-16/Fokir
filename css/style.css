@@ -322,6 +322,9 @@ h2.head::before {
   width: 24%;
   display: inline-block;
 }
+.counter .item:hover {
+  background-color: #111;
+}
 .counter .item i {
   color: #ff305b;
   font-size: 26px;
